@@ -1,5 +1,5 @@
 ## Hi, I am Abel Berhanu👋
-AI Research Engineer | Medical Student | Team lead @ Scientific-Ethiopian
+### AI Research Engineer | Medical Student | Team lead @ Scientific-Ethiopian
 
 I am passionate about neuroscience and building new paradigms for AI systems. I enjoy exploring contemporary research and experimenting with them to develop a technology that can contribute to a better future for humanity.
 I have a strong background in physics and mathematics and am currently pursuing a Doctor of Medicine (MD) at Addis Ababa University, where I am developing both biomedical and clinical knowledge.
