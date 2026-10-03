@@ -5,7 +5,7 @@ I am passionate about neuroscience and building new paradigms for AI systems. I 
 I have a strong background in physics and mathematics and am currently pursuing a Doctor of Medicine (MD) at Addis Ababa University, where I am developing both biomedical and clinical knowledge.
 Currently, I am working as an AI research intern at iCog Labs, where I explore AI research and emerging approaches at the intersection of artificial intelligence, neuroscience, and cognition.
 
-🚀 **Current Focus**
+## 🚀 Current Focus
 - Working on a Predictive coding model and Neuro-adaptive coding for more neuroscience inspired AI.
 - Researching the integration of neural and symbolic AI to develop systems that are both scientifically useful and important for advancing the understanding of intelligence and cognition.
 
